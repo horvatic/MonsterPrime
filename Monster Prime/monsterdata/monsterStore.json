@@ -1,0 +1,10 @@
+[
+    {
+        "monster" : "Bat",
+        "classId" :  2
+    },
+    {
+        "monster" : "Orc",
+        "classId" : 2
+    }
+]
